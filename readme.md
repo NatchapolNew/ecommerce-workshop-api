@@ -15,7 +15,7 @@ Highlights
 - File Handling Cloudinary for image uploads and management  
 - Payment Integration Stripe API for online payments  
 - Logging & Debugging Morgan middleware  
-- Development Friendly Nodemon for live reload, Prisma migrations  
+- Nodemon for live reload, Prisma migrations  
 
 ### Tech Stack
 - **Backend Framework**: Node.js + Express  
@@ -37,7 +37,7 @@ Highlights
 -การจัดการไฟล์ อัปโหลดรูปด้วย Cloudinary  
 -ระบบชำระเงิน เชื่อมต่อ Stripe API สำหรับการจ่ายเงินออนไลน์  
 -Logging & Debugging ใช้ Morgan สำหรับ log request  
--เหมาะกับการพัฒนา Nodemon reload อัตโนมัติ, Prisma migrations  
+-Nodemon reload อัตโนมัติ, Prisma migrations  
 
 ### Tech Stack
 - Framework: Node.js + Express  
